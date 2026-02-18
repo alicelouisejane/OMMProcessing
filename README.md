@@ -22,6 +22,14 @@ The repository is designed to support a practical end-to-end pipeline:
 
 ## How to run the apps
 
+You can access each of the apps on Shiny.io
+
+#### Create SAMM input files app: <https://alicelouisejane.shinyapps.io/SAMMII_creation_tool/>
+
+#### Extract SAMM results app: <https://alicelouisejane.shinyapps.io/SAMMII_Results_Extractor_Tool/>
+
+or
+
 ### 1) Clone or download the repository
 
 Either clone using Git:
@@ -51,9 +59,7 @@ repository root, run:
 
     shiny::runApp("extract_SAMM_results_app/app")
 
-## 
-
-App 1: Create SAMM input files
+## App 1: Create SAMM input files
 
 ### Overview
 
